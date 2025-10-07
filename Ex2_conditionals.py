@@ -35,7 +35,11 @@
 # - Test with different values. What messages appear for each?
 
 # Write your Step 1 code below:
-
+number = -3
+if number < 0 :
+    print("negative number")
+elif number > 0 :
+    print("positive number")
 
 # ---- GIT STEP ----
 # 1. Save your work.
@@ -67,7 +71,11 @@
 # - Try using the `or` operator to check if divisible by either 2 or 3.
 
 # Write your Step 2 code below:
-
+number1 = 0
+if number1 % 2 == 0:
+    print("even number")
+else:
+    print("odd number")
 
 # ---- GIT STEP ----
 # 1. Save your work.

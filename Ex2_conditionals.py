@@ -35,7 +35,11 @@
 # - Test with different values. What messages appear for each?
 
 # Write your Step 1 code below:
-
+number = -3
+if number < 0 :
+    print("negative number")
+elif number > 0 :
+    print("positive number")
 
 # ---- GIT STEP ----
 # 1. Save your work.
